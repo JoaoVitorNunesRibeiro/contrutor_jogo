@@ -5,8 +5,6 @@
 ## Tópicos
 🔹 Descrição do projeto 
 
-🔹 Funcionalidades
-
 🔹 Como rodar a aplicação
 
 🔹 Linguagens, dependências e libs utilizadas
