@@ -37,7 +37,7 @@ class JogoAdivinhacao {
         }while (palpite != numeroSecreto);
     }
 };
-//jogo.jogar é o metodo que esta sendo usado que foi iniciado no void linha 20, jogoAdivinhacao esta dentro do metodo que esta sempre sendo rodado, e jogoAdivinhacao faz parte dele para funcionar.
+//jogo.jogar é o metodo que esta sendo usado que foi iniciado no void linha 20, jogoAdivinhacao esta dentro do metodo que esta sempre sendo rodado
 int main() {
     JogoAdivinhacao jogo;
     jogo.jogar();
