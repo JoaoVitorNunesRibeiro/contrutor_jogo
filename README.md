@@ -27,7 +27,6 @@ iostream, cstdlib, ctime
   
 Linguagem:
 C++
-Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
 
 ## Desenvolvedores/Contribuintes:
 João Vitor
