@@ -24,7 +24,9 @@ Rode os programas no "Programiz" e em seguida de as informações que o programa
 
 Bibliotecas utilizadas: 
 #include <iostream>
+  
 #include <cstdlib>
+  
 #include <ctime>
   
 Linguagem:
