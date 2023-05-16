@@ -14,7 +14,7 @@
 ...
 
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+O programa tem como objetivo ser um jogo adivinhação no qual o jogador deve adivinhar um número no intervalo de 0 á 100, no caso do valor escolhido pelo jogador seja diferente do número secreto será contabilizado um erro e dado uma dica para que jogador tente de novo e caso acerte, o jogo deve parabenizar o jogador e mostrar a quantidade de tentativas do memsmo.
 
 ## Como rodar a aplicação 
 Rode os programas no "Programiz" e em seguida de as informações que o programa pede.
