@@ -16,21 +16,12 @@
 ## Descrição do projeto
 Descrição breve do projeto compondo um paragrafo ou dois.
 
-## Funcionalidades ⚙️
-✔️ Funcionalidade 1
-
-✔️ Funcionalidade 2
-
-✔️ Funcionalidade 3
-
-✔️ Funcionalidade 4
-
-
 ## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
+Rode os programas no "Programiz" e em seguida de as informações que o programa pede.
 
 ## Linguagens, dependencias e libs utilizadas 📚
 ![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 Bibliotecas utilizadas: 
 #include <iostream>
 #include <cstdlib>
