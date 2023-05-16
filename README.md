@@ -26,6 +26,7 @@ Bibliotecas utilizadas:
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
+  
 Linguagem:
 C++
 Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
